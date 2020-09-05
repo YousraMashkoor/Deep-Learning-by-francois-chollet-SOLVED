@@ -1,0 +1,2 @@
+Deep learning by francois chollet
+slides, documents, notes and notebooks
